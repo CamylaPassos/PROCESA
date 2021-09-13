@@ -103,7 +103,7 @@ namespace PROCESA
             // 
             // btnExluir
             // 
-            this.btnExluir.Location = new System.Drawing.Point(441, 383);
+            this.btnExluir.Location = new System.Drawing.Point(343, 383);
             this.btnExluir.Name = "btnExluir";
             this.btnExluir.Size = new System.Drawing.Size(87, 28);
             this.btnExluir.TabIndex = 3;
